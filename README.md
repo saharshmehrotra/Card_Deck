@@ -1,7 +1,5 @@
 # Card_Deck
 
-# MainCards README
-
 ## Overview
 
 The `MainCards` Java program is a simple demonstration of a deck of cards manipulation. It utilizes the `Deck` class to perform various card-related operations such as creating a deck, shuffling it, dealing a card, checking for cards of the same suit, comparing cards, and finding a specific card within the deck.
